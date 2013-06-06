@@ -1,0 +1,1271 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\项目_new\ST Cortex-M4\STM32相机设计\高速USB图像传感器调试系统V2.0\MagicBlueSTM32F4_example\STM32F407-UART\STM32F407Project.uvproj
+Project File Date:  12/06/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_stm32f4xx.s...
+compiling delay.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+.\Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+.\Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+.\Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+compiling MagicBlueSTM32BSP.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+compiling main.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+compiling STM32F4_UART.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+compiling stm32f4xx_it.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+compiling system_stm32f4xx.c...
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #20: identifier "__STATIC_INLINE" is undefined
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #101: "uint32_t" has already been declared in the current scope
+C:\Keil\ARM\CMSIS\Include\core_cmFunc.h(50): error:  #65: expected a ";"
+Source\core_cm4.h(236): warning:  #12-D: parsing restarts here after previous syntax error
+Source\core_cm4.h(245): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(246): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(248): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(258): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(262): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(263): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(264): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(266): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(267): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(268): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(269): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(270): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(271): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(272): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(274): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(284): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(285): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(286): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(287): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(289): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(305): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(306): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(307): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(308): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(309): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(310): error:  #757: variable "uint32_t" is not a type name
+Source\core_cm4.h(311): error:  #757: variable "uint32_t" is not a type name
+Target not created
+Build target 'Target 1'
+compiling delay.c...
+compiling MagicBlueSTM32BSP.c...
+Source\MagicBlueSTM32BSP.c(11): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(12): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(12): error:  #20: identifier "RCC_AHB1Periph_GPIOC" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_13" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(15): error:  #20: identifier "GPIO_Mode_OUT" is undefined
+Source\MagicBlueSTM32BSP.c(16): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(17): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\MagicBlueSTM32BSP.c(18): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(19): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(43): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(45): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOE" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_0" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_1" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_4" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_8" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(48): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\MagicBlueSTM32BSP.c(49): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+Source\MagicBlueSTM32BSP.c(50): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(51): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(52): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_PinSource0" is undefined
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_AF_FSMC" is undefined
+Source\MagicBlueSTM32BSP.c(54): error:  #20: identifier "GPIO_PinSource1" is undefined
+Source\MagicBlueSTM32BSP.c(55): error:  #20: identifier "GPIO_PinSource4" is undefined
+Source\MagicBlueSTM32BSP.c(56): error:  #20: identifier "GPIO_PinSource5" is undefined
+compiling main.c...
+Source\main.h(9): error:  #5: cannot open source input file "stm32f4_discovery.h": No such file or directory
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(16): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(17): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(18): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(18): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\STM32F4_UART.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(19): error:  #20: identifier "RCC_APB1Periph_USART2" is undefined
+Source\STM32F4_UART.c(20): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_PinSource5" is undefined
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_AF_USART2" is undefined
+Source\STM32F4_UART.c(21): error:  #20: identifier "GPIO_PinSource6" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_6" is undefined
+Source\STM32F4_UART.c(23): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\STM32F4_UART.c(24): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\STM32F4_UART.c(25): error:  #20: identifier "GPIO_PuPd_UP" is undefined
+Source\STM32F4_UART.c(26): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\STM32F4_UART.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\STM32F4_UART.c(29): error:  #20: identifier "USART_WordLength_8b" is undefined
+Source\STM32F4_UART.c(30): error:  #20: identifier "USART_StopBits_1" is undefined
+Source\STM32F4_UART.c(31): error:  #20: identifier "USART_Parity_No" is undefined
+Source\STM32F4_UART.c(32): error:  #20: identifier "USART_HardwareFlowControl_None" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Rx" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Tx" is undefined
+Source\STM32F4_UART.c(34): warning:  #223-D: function "USART_Init" declared implicitly
+Source\STM32F4_UART.c(35): warning:  #223-D: function "USART_Cmd" declared implicitly
+Source\STM32F4_UART.c(36): warning:  #223-D: function "USART_ClearFlag" declared implicitly
+Source\STM32F4_UART.c(36): error:  #20: identifier "USART_FLAG_TC" is undefined
+Source\STM32F4_UART.c(52): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(53): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(54): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(54): error:  #20: identifier "RCC_AHB1Periph_GPIOA" is undefined
+Source\STM32F4_UART.c(55): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(55): error:  #20: identifier "RCC_APB2Periph_USART1" is undefined
+Source\STM32F4_UART.c(56): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_PinSource9" is undefined
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_AF_USART1" is undefined
+Source\STM32F4_UART.c(57): error:  #20: identifier "GPIO_PinSource10" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\STM32F4_UART.c(59): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+compiling stm32f4xx_it.c...
+Source\main.h(9): error:  #5: cannot open source input file "stm32f4_discovery.h": No such file or directory
+compiling system_stm32f4xx.c...
+Target not created
+Build target 'Target 1'
+compiling MagicBlueSTM32BSP.c...
+Source\MagicBlueSTM32BSP.c(11): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(12): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(12): error:  #20: identifier "RCC_AHB1Periph_GPIOC" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_13" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(15): error:  #20: identifier "GPIO_Mode_OUT" is undefined
+Source\MagicBlueSTM32BSP.c(16): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(17): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\MagicBlueSTM32BSP.c(18): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(19): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(43): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(45): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOE" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_0" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_1" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_4" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_8" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(48): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\MagicBlueSTM32BSP.c(49): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+Source\MagicBlueSTM32BSP.c(50): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(51): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(52): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_PinSource0" is undefined
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_AF_FSMC" is undefined
+Source\MagicBlueSTM32BSP.c(54): error:  #20: identifier "GPIO_PinSource1" is undefined
+Source\MagicBlueSTM32BSP.c(55): error:  #20: identifier "GPIO_PinSource4" is undefined
+Source\MagicBlueSTM32BSP.c(56): error:  #20: identifier "GPIO_PinSource5" is undefined
+compiling main.c...
+Source\main.c(16): error:  #20: identifier "FSMC_LCD_ADDRESS" is undefined
+Source\main.c(24): error:  #20: identifier "__ALIGN_BEGIN" is undefined
+Source\main.c(24): error:  #65: expected a ";"
+Source\main.c(54): warning:  #223-D: function "GLCD_Init" declared implicitly
+Source\main.c(55): warning:  #223-D: function "GLCD_Clear" declared implicitly
+Source\main.c(56): warning:  #223-D: function "GLCD_SetTextColor" declared implicitly
+Source\main.c(57): warning:  #223-D: function "GLCD_SetBackColor" declared implicitly
+Source\main.c(58): warning:  #223-D: function "GLCD_DisplayString" declared implicitly
+Source\main.c(66): warning:  #223-D: function "GLCD_Bitmap" declared implicitly
+Source\main.c(67): warning:  #223-D: function "CMOS_CLK_Init" declared implicitly
+Source\main.c(69): warning:  #223-D: function "SimI2C1Init" declared implicitly
+Source\main.c(71): warning:  #223-D: function "CMOS_ID_Chack" declared implicitly
+Source\main.c(72): warning:  #223-D: function "CMOS_Init" declared implicitly
+Source\main.c(73): warning:  #223-D: function "CMOSRegCheck" declared implicitly
+Source\main.c(88): warning:  #223-D: function "DiskInit" declared implicitly
+Source\main.c(93): warning:  #223-D: function "USBD_Init" declared implicitly
+Source\main.c(93): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\main.c(94): error:  #20: identifier "USB_OTG_HS_CORE_ID" is undefined
+Source\main.c(95): error:  #20: identifier "USR_desc" is undefined
+Source\main.c(96): error:  #20: identifier "USBD_MSC_cb" is undefined
+Source\main.c(97): error:  #20: identifier "USR_cb" is undefined
+Source\main.c(100): warning:  #223-D: function "Cam_Init" declared implicitly
+Source\main.c(101): warning:  #223-D: function "Cam_Start" declared implicitly
+Source\main.c(115): error:  #20: identifier "LineFlag" is undefined
+Source\main.c(119): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(119): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(119): error:  #20: identifier "MT9T001BUFFER0" is undefined
+Source\main.c(127): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(127): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(127): error:  #20: identifier "MT9T001BUFFER1" is undefined
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(16): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(17): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(18): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(18): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\STM32F4_UART.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(19): error:  #20: identifier "RCC_APB1Periph_USART2" is undefined
+Source\STM32F4_UART.c(20): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_PinSource5" is undefined
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_AF_USART2" is undefined
+Source\STM32F4_UART.c(21): error:  #20: identifier "GPIO_PinSource6" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_6" is undefined
+Source\STM32F4_UART.c(23): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\STM32F4_UART.c(24): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\STM32F4_UART.c(25): error:  #20: identifier "GPIO_PuPd_UP" is undefined
+Source\STM32F4_UART.c(26): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\STM32F4_UART.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\STM32F4_UART.c(29): error:  #20: identifier "USART_WordLength_8b" is undefined
+Source\STM32F4_UART.c(30): error:  #20: identifier "USART_StopBits_1" is undefined
+Source\STM32F4_UART.c(31): error:  #20: identifier "USART_Parity_No" is undefined
+Source\STM32F4_UART.c(32): error:  #20: identifier "USART_HardwareFlowControl_None" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Rx" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Tx" is undefined
+Source\STM32F4_UART.c(34): warning:  #223-D: function "USART_Init" declared implicitly
+Source\STM32F4_UART.c(35): warning:  #223-D: function "USART_Cmd" declared implicitly
+Source\STM32F4_UART.c(36): warning:  #223-D: function "USART_ClearFlag" declared implicitly
+Source\STM32F4_UART.c(36): error:  #20: identifier "USART_FLAG_TC" is undefined
+Source\STM32F4_UART.c(52): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(53): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(54): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(54): error:  #20: identifier "RCC_AHB1Periph_GPIOA" is undefined
+Source\STM32F4_UART.c(55): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(55): error:  #20: identifier "RCC_APB2Periph_USART1" is undefined
+Source\STM32F4_UART.c(56): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_PinSource9" is undefined
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_AF_USART1" is undefined
+Source\STM32F4_UART.c(57): error:  #20: identifier "GPIO_PinSource10" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\STM32F4_UART.c(59): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling MagicBlueSTM32BSP.c...
+Source\MagicBlueSTM32BSP.c(11): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(12): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(12): error:  #20: identifier "RCC_AHB1Periph_GPIOC" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_13" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(15): error:  #20: identifier "GPIO_Mode_OUT" is undefined
+Source\MagicBlueSTM32BSP.c(16): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(17): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\MagicBlueSTM32BSP.c(18): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(19): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(43): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(45): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOE" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_0" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_1" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_4" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_8" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(48): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\MagicBlueSTM32BSP.c(49): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+Source\MagicBlueSTM32BSP.c(50): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(51): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(52): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_PinSource0" is undefined
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_AF_FSMC" is undefined
+Source\MagicBlueSTM32BSP.c(54): error:  #20: identifier "GPIO_PinSource1" is undefined
+Source\MagicBlueSTM32BSP.c(55): error:  #20: identifier "GPIO_PinSource4" is undefined
+Source\MagicBlueSTM32BSP.c(56): error:  #20: identifier "GPIO_PinSource5" is undefined
+compiling main.c...
+Source\main.c(16): error:  #20: identifier "FSMC_LCD_ADDRESS" is undefined
+Source\main.c(24): error:  #20: identifier "__ALIGN_BEGIN" is undefined
+Source\main.c(24): error:  #65: expected a ";"
+Source\main.c(54): warning:  #223-D: function "GLCD_Init" declared implicitly
+Source\main.c(55): warning:  #223-D: function "GLCD_Clear" declared implicitly
+Source\main.c(56): warning:  #223-D: function "GLCD_SetTextColor" declared implicitly
+Source\main.c(57): warning:  #223-D: function "GLCD_SetBackColor" declared implicitly
+Source\main.c(58): warning:  #223-D: function "GLCD_DisplayString" declared implicitly
+Source\main.c(66): warning:  #223-D: function "GLCD_Bitmap" declared implicitly
+Source\main.c(67): warning:  #223-D: function "CMOS_CLK_Init" declared implicitly
+Source\main.c(69): warning:  #223-D: function "SimI2C1Init" declared implicitly
+Source\main.c(71): warning:  #223-D: function "CMOS_ID_Chack" declared implicitly
+Source\main.c(72): warning:  #223-D: function "CMOS_Init" declared implicitly
+Source\main.c(73): warning:  #223-D: function "CMOSRegCheck" declared implicitly
+Source\main.c(88): warning:  #223-D: function "DiskInit" declared implicitly
+Source\main.c(93): warning:  #223-D: function "USBD_Init" declared implicitly
+Source\main.c(93): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\main.c(94): error:  #20: identifier "USB_OTG_HS_CORE_ID" is undefined
+Source\main.c(95): error:  #20: identifier "USR_desc" is undefined
+Source\main.c(96): error:  #20: identifier "USBD_MSC_cb" is undefined
+Source\main.c(97): error:  #20: identifier "USR_cb" is undefined
+Source\main.c(100): warning:  #223-D: function "Cam_Init" declared implicitly
+Source\main.c(101): warning:  #223-D: function "Cam_Start" declared implicitly
+Source\main.c(115): error:  #20: identifier "LineFlag" is undefined
+Source\main.c(119): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(119): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(119): error:  #20: identifier "MT9T001BUFFER0" is undefined
+Source\main.c(127): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(127): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(127): error:  #20: identifier "MT9T001BUFFER1" is undefined
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(16): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(17): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(18): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(18): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\STM32F4_UART.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(19): error:  #20: identifier "RCC_APB1Periph_USART2" is undefined
+Source\STM32F4_UART.c(20): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_PinSource5" is undefined
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_AF_USART2" is undefined
+Source\STM32F4_UART.c(21): error:  #20: identifier "GPIO_PinSource6" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_6" is undefined
+Source\STM32F4_UART.c(23): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\STM32F4_UART.c(24): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\STM32F4_UART.c(25): error:  #20: identifier "GPIO_PuPd_UP" is undefined
+Source\STM32F4_UART.c(26): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\STM32F4_UART.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\STM32F4_UART.c(29): error:  #20: identifier "USART_WordLength_8b" is undefined
+Source\STM32F4_UART.c(30): error:  #20: identifier "USART_StopBits_1" is undefined
+Source\STM32F4_UART.c(31): error:  #20: identifier "USART_Parity_No" is undefined
+Source\STM32F4_UART.c(32): error:  #20: identifier "USART_HardwareFlowControl_None" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Rx" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Tx" is undefined
+Source\STM32F4_UART.c(34): warning:  #223-D: function "USART_Init" declared implicitly
+Source\STM32F4_UART.c(35): warning:  #223-D: function "USART_Cmd" declared implicitly
+Source\STM32F4_UART.c(36): warning:  #223-D: function "USART_ClearFlag" declared implicitly
+Source\STM32F4_UART.c(36): error:  #20: identifier "USART_FLAG_TC" is undefined
+Source\STM32F4_UART.c(52): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(53): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(54): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(54): error:  #20: identifier "RCC_AHB1Periph_GPIOA" is undefined
+Source\STM32F4_UART.c(55): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(55): error:  #20: identifier "RCC_APB2Periph_USART1" is undefined
+Source\STM32F4_UART.c(56): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_PinSource9" is undefined
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_AF_USART1" is undefined
+Source\STM32F4_UART.c(57): error:  #20: identifier "GPIO_PinSource10" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\STM32F4_UART.c(59): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+compiling stm32f4xx_gpio.c...
+Source\src\stm32f4xx_gpio.c(123): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(187): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(260): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(304): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(326): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(343): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(365): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(383): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(402): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(422): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(445): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(459): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(535): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rcc.c...
+Source\src\stm32f4xx_rcc.c(240): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(296): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(331): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(356): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(396): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(439): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(462): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(503): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(521): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(548): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(586): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(692): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(745): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(777): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(808): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(985): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1015): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1032): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1049): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1088): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1120): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1147): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1197): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1237): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1305): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1329): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1376): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1412): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1458): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1490): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1517): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1567): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1607): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1652): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1692): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1754): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1785): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_usart.c...
+Source\src\stm32f4xx_usart.c(181): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(235): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(364): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(411): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(437): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(458): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(484): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(541): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(557): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(608): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(628): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(655): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(724): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(742): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(766): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(819): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(904): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(923): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(948): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1037): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1083): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1213): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1324): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1433): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_syscfg.c...
+Source\src\stm32f4xx_syscfg.c(105): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(124): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(142): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(160): warning:  #223-D: function "assert_param" declared implicitly
+Target not created
+Rebuild target 'Target 1'
+assembling startup_stm32f4xx.s...
+compiling delay.c...
+compiling MagicBlueSTM32BSP.c...
+Source\MagicBlueSTM32BSP.c(11): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(12): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(12): error:  #20: identifier "RCC_AHB1Periph_GPIOC" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_13" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(14): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(15): error:  #20: identifier "GPIO_Mode_OUT" is undefined
+Source\MagicBlueSTM32BSP.c(16): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(17): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\MagicBlueSTM32BSP.c(18): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(19): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(43): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\MagicBlueSTM32BSP.c(45): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOE" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_0" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_1" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_4" is undefined
+Source\MagicBlueSTM32BSP.c(46): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_8" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_14" is undefined
+Source\MagicBlueSTM32BSP.c(47): error:  #20: identifier "GPIO_Pin_15" is undefined
+Source\MagicBlueSTM32BSP.c(48): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\MagicBlueSTM32BSP.c(49): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+Source\MagicBlueSTM32BSP.c(50): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\MagicBlueSTM32BSP.c(51): error:  #20: identifier "GPIO_PuPd_NOPULL" is undefined
+Source\MagicBlueSTM32BSP.c(52): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_PinSource0" is undefined
+Source\MagicBlueSTM32BSP.c(53): error:  #20: identifier "GPIO_AF_FSMC" is undefined
+Source\MagicBlueSTM32BSP.c(54): error:  #20: identifier "GPIO_PinSource1" is undefined
+Source\MagicBlueSTM32BSP.c(55): error:  #20: identifier "GPIO_PinSource4" is undefined
+Source\MagicBlueSTM32BSP.c(56): error:  #20: identifier "GPIO_PinSource5" is undefined
+compiling main.c...
+Source\main.c(16): error:  #20: identifier "FSMC_LCD_ADDRESS" is undefined
+Source\main.c(24): error:  #20: identifier "__ALIGN_BEGIN" is undefined
+Source\main.c(24): error:  #65: expected a ";"
+Source\main.c(54): warning:  #223-D: function "GLCD_Init" declared implicitly
+Source\main.c(55): warning:  #223-D: function "GLCD_Clear" declared implicitly
+Source\main.c(56): warning:  #223-D: function "GLCD_SetTextColor" declared implicitly
+Source\main.c(57): warning:  #223-D: function "GLCD_SetBackColor" declared implicitly
+Source\main.c(58): warning:  #223-D: function "GLCD_DisplayString" declared implicitly
+Source\main.c(66): warning:  #223-D: function "GLCD_Bitmap" declared implicitly
+Source\main.c(67): warning:  #223-D: function "CMOS_CLK_Init" declared implicitly
+Source\main.c(69): warning:  #223-D: function "SimI2C1Init" declared implicitly
+Source\main.c(71): warning:  #223-D: function "CMOS_ID_Chack" declared implicitly
+Source\main.c(72): warning:  #223-D: function "CMOS_Init" declared implicitly
+Source\main.c(73): warning:  #223-D: function "CMOSRegCheck" declared implicitly
+Source\main.c(88): warning:  #223-D: function "DiskInit" declared implicitly
+Source\main.c(93): warning:  #223-D: function "USBD_Init" declared implicitly
+Source\main.c(93): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\main.c(94): error:  #20: identifier "USB_OTG_HS_CORE_ID" is undefined
+Source\main.c(95): error:  #20: identifier "USR_desc" is undefined
+Source\main.c(96): error:  #20: identifier "USBD_MSC_cb" is undefined
+Source\main.c(97): error:  #20: identifier "USR_cb" is undefined
+Source\main.c(100): warning:  #223-D: function "Cam_Init" declared implicitly
+Source\main.c(101): warning:  #223-D: function "Cam_Start" declared implicitly
+Source\main.c(115): error:  #20: identifier "LineFlag" is undefined
+Source\main.c(119): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(119): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(119): error:  #20: identifier "MT9T001BUFFER0" is undefined
+Source\main.c(127): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(127): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(127): error:  #20: identifier "MT9T001BUFFER1" is undefined
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(16): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(17): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(18): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(18): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\STM32F4_UART.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(19): error:  #20: identifier "RCC_APB1Periph_USART2" is undefined
+Source\STM32F4_UART.c(20): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_PinSource5" is undefined
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_AF_USART2" is undefined
+Source\STM32F4_UART.c(21): error:  #20: identifier "GPIO_PinSource6" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_6" is undefined
+Source\STM32F4_UART.c(23): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\STM32F4_UART.c(24): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\STM32F4_UART.c(25): error:  #20: identifier "GPIO_PuPd_UP" is undefined
+Source\STM32F4_UART.c(26): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\STM32F4_UART.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\STM32F4_UART.c(29): error:  #20: identifier "USART_WordLength_8b" is undefined
+Source\STM32F4_UART.c(30): error:  #20: identifier "USART_StopBits_1" is undefined
+Source\STM32F4_UART.c(31): error:  #20: identifier "USART_Parity_No" is undefined
+Source\STM32F4_UART.c(32): error:  #20: identifier "USART_HardwareFlowControl_None" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Rx" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Tx" is undefined
+Source\STM32F4_UART.c(34): warning:  #223-D: function "USART_Init" declared implicitly
+Source\STM32F4_UART.c(35): warning:  #223-D: function "USART_Cmd" declared implicitly
+Source\STM32F4_UART.c(36): warning:  #223-D: function "USART_ClearFlag" declared implicitly
+Source\STM32F4_UART.c(36): error:  #20: identifier "USART_FLAG_TC" is undefined
+Source\STM32F4_UART.c(52): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(53): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(54): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(54): error:  #20: identifier "RCC_AHB1Periph_GPIOA" is undefined
+Source\STM32F4_UART.c(55): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(55): error:  #20: identifier "RCC_APB2Periph_USART1" is undefined
+Source\STM32F4_UART.c(56): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_PinSource9" is undefined
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_AF_USART1" is undefined
+Source\STM32F4_UART.c(57): error:  #20: identifier "GPIO_PinSource10" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\STM32F4_UART.c(59): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+compiling system_stm32f4xx.c...
+compiling stm32f4xx_gpio.c...
+Source\src\stm32f4xx_gpio.c(123): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(187): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(260): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(304): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(326): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(343): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(365): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(383): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(402): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(422): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(445): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(459): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_gpio.c(535): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rcc.c...
+Source\src\stm32f4xx_rcc.c(240): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(296): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(331): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(356): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(396): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(439): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(462): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(503): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(521): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(548): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(586): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(692): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(745): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(777): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(808): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(985): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1015): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1032): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1049): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1088): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1120): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1147): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1197): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1237): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1305): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1329): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1376): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1412): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1458): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1490): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1517): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1567): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1607): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1652): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1692): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1754): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_rcc.c(1785): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_usart.c...
+Source\src\stm32f4xx_usart.c(181): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(235): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(364): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(411): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(437): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(458): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(484): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(541): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(557): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(608): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(628): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(655): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(724): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(742): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(766): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(819): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(904): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(923): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(948): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1037): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1083): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1213): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1324): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_usart.c(1433): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_syscfg.c...
+Source\src\stm32f4xx_syscfg.c(105): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(124): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(142): warning:  #223-D: function "assert_param" declared implicitly
+Source\src\stm32f4xx_syscfg.c(160): warning:  #223-D: function "assert_param" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling MagicBlueSTM32BSP.c...
+Source\MagicBlueSTM32BSP.c(12): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(12): error:  #20: identifier "RCC_AHB1Periph_GPIOC" is undefined
+Source\MagicBlueSTM32BSP.c(45): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\MagicBlueSTM32BSP.c(45): error:  #20: identifier "RCC_AHB1Periph_GPIOE" is undefined
+Source\MagicBlueSTM32BSP.c(87): warning:  #223-D: function "RCC_AHB3PeriphClockCmd" declared implicitly
+Source\MagicBlueSTM32BSP.c(87): error:  #20: identifier "RCC_AHB3Periph_FSMC" is undefined
+compiling main.c...
+Source\main.c(16): error:  #20: identifier "FSMC_LCD_ADDRESS" is undefined
+Source\main.c(24): error:  #20: identifier "__ALIGN_BEGIN" is undefined
+Source\main.c(24): error:  #65: expected a ";"
+Source\main.c(54): warning:  #223-D: function "GLCD_Init" declared implicitly
+Source\main.c(55): warning:  #223-D: function "GLCD_Clear" declared implicitly
+Source\main.c(56): warning:  #223-D: function "GLCD_SetTextColor" declared implicitly
+Source\main.c(57): warning:  #223-D: function "GLCD_SetBackColor" declared implicitly
+Source\main.c(58): warning:  #223-D: function "GLCD_DisplayString" declared implicitly
+Source\main.c(66): warning:  #223-D: function "GLCD_Bitmap" declared implicitly
+Source\main.c(67): warning:  #223-D: function "CMOS_CLK_Init" declared implicitly
+Source\main.c(69): warning:  #223-D: function "SimI2C1Init" declared implicitly
+Source\main.c(71): warning:  #223-D: function "CMOS_ID_Chack" declared implicitly
+Source\main.c(72): warning:  #223-D: function "CMOS_Init" declared implicitly
+Source\main.c(73): warning:  #223-D: function "CMOSRegCheck" declared implicitly
+Source\main.c(88): warning:  #223-D: function "DiskInit" declared implicitly
+Source\main.c(93): warning:  #223-D: function "USBD_Init" declared implicitly
+Source\main.c(93): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\main.c(94): error:  #20: identifier "USB_OTG_HS_CORE_ID" is undefined
+Source\main.c(95): error:  #20: identifier "USR_desc" is undefined
+Source\main.c(96): error:  #20: identifier "USBD_MSC_cb" is undefined
+Source\main.c(97): error:  #20: identifier "USR_cb" is undefined
+Source\main.c(100): warning:  #223-D: function "Cam_Init" declared implicitly
+Source\main.c(101): warning:  #223-D: function "Cam_Start" declared implicitly
+Source\main.c(115): error:  #20: identifier "LineFlag" is undefined
+Source\main.c(119): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(119): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(119): error:  #20: identifier "MT9T001BUFFER0" is undefined
+Source\main.c(127): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(127): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(127): error:  #20: identifier "MT9T001BUFFER1" is undefined
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(16): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(17): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(18): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(18): error:  #20: identifier "RCC_AHB1Periph_GPIOD" is undefined
+Source\STM32F4_UART.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(19): error:  #20: identifier "RCC_APB1Periph_USART2" is undefined
+Source\STM32F4_UART.c(20): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_PinSource5" is undefined
+Source\STM32F4_UART.c(20): error:  #20: identifier "GPIO_AF_USART2" is undefined
+Source\STM32F4_UART.c(21): error:  #20: identifier "GPIO_PinSource6" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_5" is undefined
+Source\STM32F4_UART.c(22): error:  #20: identifier "GPIO_Pin_6" is undefined
+Source\STM32F4_UART.c(23): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+Source\STM32F4_UART.c(24): error:  #20: identifier "GPIO_OType_PP" is undefined
+Source\STM32F4_UART.c(25): error:  #20: identifier "GPIO_PuPd_UP" is undefined
+Source\STM32F4_UART.c(26): error:  #20: identifier "GPIO_Mode_AF" is undefined
+Source\STM32F4_UART.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+Source\STM32F4_UART.c(29): error:  #20: identifier "USART_WordLength_8b" is undefined
+Source\STM32F4_UART.c(30): error:  #20: identifier "USART_StopBits_1" is undefined
+Source\STM32F4_UART.c(31): error:  #20: identifier "USART_Parity_No" is undefined
+Source\STM32F4_UART.c(32): error:  #20: identifier "USART_HardwareFlowControl_None" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Rx" is undefined
+Source\STM32F4_UART.c(33): error:  #20: identifier "USART_Mode_Tx" is undefined
+Source\STM32F4_UART.c(34): warning:  #223-D: function "USART_Init" declared implicitly
+Source\STM32F4_UART.c(35): warning:  #223-D: function "USART_Cmd" declared implicitly
+Source\STM32F4_UART.c(36): warning:  #223-D: function "USART_ClearFlag" declared implicitly
+Source\STM32F4_UART.c(36): error:  #20: identifier "USART_FLAG_TC" is undefined
+Source\STM32F4_UART.c(52): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+Source\STM32F4_UART.c(53): error:  #20: identifier "USART_InitTypeDef" is undefined
+Source\STM32F4_UART.c(54): warning:  #223-D: function "RCC_AHB1PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(54): error:  #20: identifier "RCC_AHB1Periph_GPIOA" is undefined
+Source\STM32F4_UART.c(55): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+Source\STM32F4_UART.c(55): error:  #20: identifier "RCC_APB2Periph_USART1" is undefined
+Source\STM32F4_UART.c(56): warning:  #223-D: function "GPIO_PinAFConfig" declared implicitly
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_PinSource9" is undefined
+Source\STM32F4_UART.c(56): error:  #20: identifier "GPIO_AF_USART1" is undefined
+Source\STM32F4_UART.c(57): error:  #20: identifier "GPIO_PinSource10" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_9" is undefined
+Source\STM32F4_UART.c(58): error:  #20: identifier "GPIO_Pin_10" is undefined
+Source\STM32F4_UART.c(59): error:  #20: identifier "GPIO_Speed_100MHz" is undefined
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling delay.c...
+compiling MagicBlueSTM32BSP.c...
+compiling main.c...
+Source\main.c(16): error:  #20: identifier "FSMC_LCD_ADDRESS" is undefined
+Source\main.c(24): error:  #20: identifier "__ALIGN_BEGIN" is undefined
+Source\main.c(24): error:  #65: expected a ";"
+Source\main.c(54): warning:  #223-D: function "GLCD_Init" declared implicitly
+Source\main.c(55): warning:  #223-D: function "GLCD_Clear" declared implicitly
+Source\main.c(56): warning:  #223-D: function "GLCD_SetTextColor" declared implicitly
+Source\main.c(57): warning:  #223-D: function "GLCD_SetBackColor" declared implicitly
+Source\main.c(58): warning:  #223-D: function "GLCD_DisplayString" declared implicitly
+Source\main.c(66): warning:  #223-D: function "GLCD_Bitmap" declared implicitly
+Source\main.c(67): warning:  #223-D: function "CMOS_CLK_Init" declared implicitly
+Source\main.c(69): warning:  #223-D: function "SimI2C1Init" declared implicitly
+Source\main.c(71): warning:  #223-D: function "CMOS_ID_Chack" declared implicitly
+Source\main.c(72): warning:  #223-D: function "CMOS_Init" declared implicitly
+Source\main.c(73): warning:  #223-D: function "CMOSRegCheck" declared implicitly
+Source\main.c(88): warning:  #223-D: function "DiskInit" declared implicitly
+Source\main.c(93): warning:  #223-D: function "USBD_Init" declared implicitly
+Source\main.c(93): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\main.c(94): error:  #20: identifier "USB_OTG_HS_CORE_ID" is undefined
+Source\main.c(95): error:  #20: identifier "USR_desc" is undefined
+Source\main.c(96): error:  #20: identifier "USBD_MSC_cb" is undefined
+Source\main.c(97): error:  #20: identifier "USR_cb" is undefined
+Source\main.c(100): warning:  #223-D: function "Cam_Init" declared implicitly
+Source\main.c(101): warning:  #223-D: function "Cam_Start" declared implicitly
+Source\main.c(115): error:  #20: identifier "LineFlag" is undefined
+Source\main.c(119): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(119): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(119): error:  #20: identifier "MT9T001BUFFER0" is undefined
+Source\main.c(127): warning:  #223-D: function "GLCD_BmpRGB" declared implicitly
+Source\main.c(127): error:  #20: identifier "MT9T001RAM" is undefined
+Source\main.c(127): error:  #20: identifier "MT9T001BUFFER1" is undefined
+compiling STM32F4_UART.c...
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+compiling system_stm32f4xx.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_usart.c...
+compiling stm32f4xx_syscfg.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(34): error:  #268: declaration may not appear after executable statement in block
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+Source\main.c(34): error:  #67: expected a "}"
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(34): error:  #268: declaration may not appear after executable statement in block
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+Source\main.c(34): error:  #67: expected a "}"
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+Source\main.c(57): error: At end of source:  #67: expected a "}"
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(42): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(45): error:  #20: identifier "USB_OTG_CORE_HANDLE" is undefined
+Source\stm32f4xx_it.c(168): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(173): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Target not created
+Build target 'Target 1'
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(156): warning:  #223-D: function "USBD_OTG_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(156): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\stm32f4xx_it.c(162): warning:  #223-D: function "USBD_OTG_EP1IN_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(162): error:  #20: identifier "USB_OTG_dev" is undefined
+Source\stm32f4xx_it.c(167): warning:  #223-D: function "USBD_OTG_EP1OUT_ISR_Handler" declared implicitly
+Source\stm32f4xx_it.c(167): error:  #20: identifier "USB_OTG_dev" is undefined
+Target not created
+Build target 'Target 1'
+compiling stm32f4xx_it.c...
+Source\stm32f4xx_it.c(157): error:  #130: expected a "{"
+Target not created
+Build target 'Target 1'
+compiling stm32f4xx_it.c...
+linking...
+.\obj\STM32F407Project.axf: Error: L6218E: Undefined symbol FSMC_NORSRAMCmd (referred from magicbluestm32bsp.o).
+.\obj\STM32F407Project.axf: Error: L6218E: Undefined symbol FSMC_NORSRAMInit (referred from magicbluestm32bsp.o).
+Target not created
+Build target 'Target 1'
+compiling stm32f4xx_fsmc.c...
+linking...
+Program Size: Code=6740 RO-data=424 RW-data=52 ZI-data=3684  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling STM32F4_UART.c...
+Source\STM32F4_UART.c(91): error:  #20: identifier "RCC_APB2Periph_UART4" is undefined
+Target not created
+Build target 'Target 1'
+compiling STM32F4_UART.c...
+linking...
+Program Size: Code=6932 RO-data=424 RW-data=52 ZI-data=3684  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling STM32F4_UART.c...
+linking...
+Program Size: Code=6972 RO-data=424 RW-data=52 ZI-data=3684  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+compiling STM32F4_UART.c...
+compiling stm32f4xx_it.c...
+linking...
+Program Size: Code=6972 RO-data=424 RW-data=52 ZI-data=3684  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+Source\main.c(23): warning:  #177-D: variable "i" was declared but never referenced
+Source\main.c(23): warning:  #177-D: variable "m" was declared but never referenced
+linking...
+Program Size: Code=7356 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\项目_new\\ST Cortex-M4\\STM32相机设计\\高速USB图像传感器调试系统V2.0\\MagicBlueSTM32F4_example\\STM32F407-UART\\obj\\STM32F407Project.AXF" 
+Internal DLL Error
+Build target 'Target 1'
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\项目_new\\ST Cortex-M4\\STM32相机设计\\高速USB图像传感器调试系统V2.0\\MagicBlueSTM32F4_example\\STM32F407-UART\\obj\\STM32F407Project.AXF" 
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+Set JLink Project File to "E:\项目_new\ST Cortex-M4\STM32相机设计\高速USB图像传感器调试系统V2.0\MagicBlueSTM32F4_example\STM32F407-UART\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.40c, compiled Jan 24 2012 09:30:33
+Firmware: J-Link ARM-OB STM32 compiled Dec 15 2010 11:30:03
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+Application running ...
+Load "E:\\项目_new\\ST Cortex-M4\\STM32相机设计\\高速USB图像传感器调试系统V2.0\\MagicBlueSTM32F4_example\\STM32F407-UART\\obj\\STM32F407Project.AXF" 
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+Set JLink Project File to "E:\项目_new\ST Cortex-M4\STM32相机设计\高速USB图像传感器调试系统V2.0\MagicBlueSTM32F4_example\STM32F407-UART\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.40c, compiled Jan 24 2012 09:30:33
+Firmware: J-Link ARM-OB STM32 compiled Dec 15 2010 11:30:03
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling startup_stm32f4xx.s...
+compiling delay.c...
+compiling MagicBlueSTM32BSP.c...
+compiling main.c...
+compiling STM32F4_UART.c...
+compiling stm32f4xx_it.c...
+compiling system_stm32f4xx.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_usart.c...
+compiling stm32f4xx_syscfg.c...
+compiling stm32f4xx_fsmc.c...
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\项目_new\\ST Cortex-M4\\STM32相机设计\\高速USB图像传感器调试系统V2.0\\MagicBlueSTM32F4_example\\STM32F407-UART\\obj\\STM32F407Project.AXF" 
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+Set JLink Project File to "E:\项目_new\ST Cortex-M4\STM32相机设计\高速USB图像传感器调试系统V2.0\MagicBlueSTM32F4_example\STM32F407-UART\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.40c, compiled Jan 24 2012 09:30:33
+Firmware: J-Link ARM-OB STM32 compiled Dec 15 2010 11:30:03
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+Application running ...
+Build target 'Target 1'
+linking...
+Program Size: Code=7352 RO-data=424 RW-data=56 ZI-data=3680  
+FromELF: creating hex file...
+".\obj\STM32F407Project.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\项目_new\\ST Cortex-M4\\STM32相机设计\\高速USB图像传感器调试系统V2.0\\MagicBlueSTM32F4_example\\STM32F407-UART\\obj\\STM32F407Project.AXF" 
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+Set JLink Project File to "E:\项目_new\ST Cortex-M4\STM32相机设计\高速USB图像传感器调试系统V2.0\MagicBlueSTM32F4_example\STM32F407-UART\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.40c, compiled Jan 24 2012 09:30:33
+Firmware: J-Link ARM-OB STM32 compiled Dec 15 2010 11:30:03
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+Application running ...
