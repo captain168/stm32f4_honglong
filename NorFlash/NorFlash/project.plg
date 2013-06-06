@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\work\wb-F4\Examples\GPIO_LED\project.uvproj
+Project File Date:  10/12/2012
+
+<h2>Output:</h2>
+Rebuild target 'project'
+compiling misc.c...
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(115): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(135): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(177): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(196): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(220): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_adc.c...
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(233): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(338): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(395): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(454): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(483): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(524): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(588): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(610): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(712): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(831): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(846): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(875): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(900): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(929): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(958): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(981): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1051): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1075): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1190): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1254): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1288): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1326): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1380): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1394): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1422): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1448): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1478): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1585): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1622): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1656): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1680): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1719): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_can.c...
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(165): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(197): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(333): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(466): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(491): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(521): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(576): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(649): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(701): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(748): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(797): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(821): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(875): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(953): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(979): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1040): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1065): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1085): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1290): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1332): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1431): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1491): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1594): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(234): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(373): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(740): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(769): warning:  #223-D: function "assert_param" declared implicitly
+..\..\stm32f4_dsp_stdperiph_lib\STM32F4xx_DSP_StdPeriph_Lib_V1.0.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(805): warning:  #223-D: function "assert_param" declared implicitly
+Project build/rebuild aborted.
+Target not created
