@@ -1,0 +1,77 @@
+*** Creating Trace Output File '.\STM324xG_EVAL\STM324xG_EVAL.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\stm324xg_eval\system_stm32f4xx.o"'
+### List of Objects: adding '".\stm324xg_eval\startup_stm32f4xx.o"'
+### List of Objects: adding '".\stm324xg_eval\main.o"'
+### List of Objects: adding '".\stm324xg_eval\netconf.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4x7_eth_bsp.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_it.o"'
+### List of Objects: adding '".\stm324xg_eval\fs.o"'
+### List of Objects: adding '".\stm324xg_eval\serial_debug.o"'
+### List of Objects: adding '".\stm324xg_eval\httpd_cgi_ssi.o"'
+### List of Objects: adding '".\stm324xg_eval\httpd.o"'
+### List of Objects: adding '".\stm324xg_eval\api_lib.o"'
+### List of Objects: adding '".\stm324xg_eval\api_msg.o"'
+### List of Objects: adding '".\stm324xg_eval\err.o"'
+### List of Objects: adding '".\stm324xg_eval\netbuf.o"'
+### List of Objects: adding '".\stm324xg_eval\netdb.o"'
+### List of Objects: adding '".\stm324xg_eval\netifapi.o"'
+### List of Objects: adding '".\stm324xg_eval\sockets.o"'
+### List of Objects: adding '".\stm324xg_eval\tcpip.o"'
+### List of Objects: adding '".\stm324xg_eval\dhcp.o"'
+### List of Objects: adding '".\stm324xg_eval\dns.o"'
+### List of Objects: adding '".\stm324xg_eval\init.o"'
+### List of Objects: adding '".\stm324xg_eval\mem.o"'
+### List of Objects: adding '".\stm324xg_eval\memp.o"'
+### List of Objects: adding '".\stm324xg_eval\netif.o"'
+### List of Objects: adding '".\stm324xg_eval\pbuf.o"'
+### List of Objects: adding '".\stm324xg_eval\raw.o"'
+### List of Objects: adding '".\stm324xg_eval\stats.o"'
+### List of Objects: adding '".\stm324xg_eval\sys.o"'
+### List of Objects: adding '".\stm324xg_eval\tcp.o"'
+### List of Objects: adding '".\stm324xg_eval\tcp_in.o"'
+### List of Objects: adding '".\stm324xg_eval\tcp_out.o"'
+### List of Objects: adding '".\stm324xg_eval\udp.o"'
+### List of Objects: adding '".\stm324xg_eval\autoip.o"'
+### List of Objects: adding '".\stm324xg_eval\icmp.o"'
+### List of Objects: adding '".\stm324xg_eval\igmp.o"'
+### List of Objects: adding '".\stm324xg_eval\inet.o"'
+### List of Objects: adding '".\stm324xg_eval\inet_chksum.o"'
+### List of Objects: adding '".\stm324xg_eval\ip.o"'
+### List of Objects: adding '".\stm324xg_eval\ip_addr.o"'
+### List of Objects: adding '".\stm324xg_eval\ip_frag.o"'
+### List of Objects: adding '".\stm324xg_eval\etharp.o"'
+### List of Objects: adding '".\stm324xg_eval\loopif.o"'
+### List of Objects: adding '".\stm324xg_eval\slipif.o"'
+### List of Objects: adding '".\stm324xg_eval\ethernetif.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_usart.o"'
+### List of Objects: adding '".\stm324xg_eval\misc.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_adc.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_dma.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_exti.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_flash.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_fsmc.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_sdio.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4xx_i2c.o"'
+### List of Objects: adding '".\stm324xg_eval\stm32f4x7_eth.o"'
+### List of Objects: adding '".\stm324xg_eval\stm324xg_eval_lcd.o"'
+### List of Objects: adding '".\stm324xg_eval\stm324xg_eval.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\stm324xg_eval\system_stm32f4xx.o" ".\stm324xg_eval\startup_stm32f4xx.o" ".\stm324xg_eval\main.o" ".\stm324xg_eval\netconf.o" ".\stm324xg_eval\stm32f4x7_eth_bsp.o" ".\stm324xg_eval\stm32f4xx_it.o" ".\stm324xg_eval\fs.o" ".\stm324xg_eval\serial_debug.o" ".\stm324xg_eval\httpd_cgi_ssi.o" ".\stm324xg_eval\httpd.o" ".\stm324xg_eval\api_lib.o" ".\stm324xg_eval\api_msg.o" ".\stm324xg_eval\err.o" ".\stm324xg_eval\netbuf.o" ".\stm324xg_eval\netdb.o" ".\stm324xg_eval\netifapi.o" ".\stm324xg_eval\sockets.o" ".\stm324xg_eval\tcpip.o" ".\stm324xg_eval\dhcp.o" ".\stm324xg_eval\dns.o" ".\stm324xg_eval\init.o" ".\stm324xg_eval\mem.o" ".\stm324xg_eval\memp.o" ".\stm324xg_eval\netif.o" ".\stm324xg_eval\pbuf.o" ".\stm324xg_eval\raw.o" ".\stm324xg_eval\stats.o" ".\stm324xg_eval\sys.o" ".\stm324xg_eval\tcp.o" ".\stm324xg_eval\tcp_in.o" ".\stm324xg_eval\tcp_out.o" ".\stm324xg_eval\udp.o" ".\stm324xg_eval\autoip.o" ".\stm324xg_eval\icmp.o" ".\stm324xg_eval\igmp.o" ".\stm324xg_eval\inet.o" ".\stm324xg_eval\inet_chksum.o" ".\stm324xg_eval\ip.o" ".\stm324xg_eval\ip_addr.o" ".\stm324xg_eval\ip_frag.o" ".\stm324xg_eval\etharp.o" ".\stm324xg_eval\loopif.o" ".\stm324xg_eval\slipif.o" ".\stm324xg_eval\ethernetif.o" ".\stm324xg_eval\stm32f4xx_usart.o" ".\stm324xg_eval\misc.o" ".\stm324xg_eval\stm32f4xx_adc.o" ".\stm324xg_eval\stm32f4xx_dma.o" ".\stm324xg_eval\stm32f4xx_exti.o" ".\stm324xg_eval\stm32f4xx_flash.o" ".\stm324xg_eval\stm32f4xx_fsmc.o" ".\stm324xg_eval\stm32f4xx_gpio.o" ".\stm324xg_eval\stm32f4xx_rcc.o" ".\stm324xg_eval\stm32f4xx_sdio.o" ".\stm324xg_eval\stm32f4xx_syscfg.o" ".\stm324xg_eval\stm32f4xx_i2c.o" ".\stm324xg_eval\stm32f4x7_eth.o" ".\stm324xg_eval\stm324xg_eval_lcd.o" ".\stm324xg_eval\stm324xg_eval.o" --library_type=microlib --strict --scatter ".\STM324xG_EVAL\STM324xG_EVAL.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\STM324xG_EVAL\STM324xG_EVAL.map" -o ".\STM324xG_EVAL\STM324xG_EVAL.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\STM324xG_EVAL\STM324xG_EVAL.axf'
+### ADS-LD Command File: '.\STM324xG_EVAL\STM324xG_EVAL.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\STM324xG_EVAL\STM324xG_EVAL.lnp', Handle=0x00000308
+### Writing '.lnp' file
+### ADS-LD Command file '.\STM324xG_EVAL\STM324xG_EVAL.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

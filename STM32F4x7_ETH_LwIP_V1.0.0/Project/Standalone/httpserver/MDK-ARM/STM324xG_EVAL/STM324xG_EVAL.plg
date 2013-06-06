@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\FXL\红龙407资料\红龙407例程整理\wb-F4_notOS\Examples\stm32f4x7_eth_lwip\STM32F4x7_ETH_LwIP_V1.0.0\Project\Standalone\httpserver\MDK-ARM\Project.uvproj
+Project File Date:  01/08/2013
+
+<h2>Output:</h2>
+Build target 'STM324xG_EVAL'
+compiling main.c...
+linking...
+Program Size: Code=25128 RO-data=35548 RW-data=336 ZI-data=32952  
+FromELF: creating hex file...
+".\STM324xG_EVAL\红龙407.axf" - 0 Error(s), 0 Warning(s).
